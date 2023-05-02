@@ -1,0 +1,4 @@
+//schema
+groceries name type cost 
+// requests 
+delete update 
